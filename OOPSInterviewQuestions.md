@@ -10,11 +10,16 @@
    4. *Polymorphism*
   
 
-2\. What are the man concepts of OOPs?
+2. ### What are the man concepts of OOPs?
 
-Class, object, encapsulation, inheritance, abstraction, polymorphism.
+   1. *Encapsulation*
+   2. *Inheritance*
+   3. *Abstraction*
+   4. *Polymorphism*
+   5. *object*
+   6. *class*.
 
-3\. Describe the class and object?
+3. ### Describe the class and object?
 
 Class is a logical unit or blueprint that contains fields, methods, and
 properties.
@@ -32,13 +37,7 @@ Method is an code block that contains series of code statements
 
 Object is an instance of a class.
 
-![A computer screen shot of a program Description automatically
-generated](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image1.png){width="6.5in"
-height="2.033333333333333in"}
 
-![A computer screen shot of a computer code Description automatically
-generated](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image2.png){width="6.5in"
-height="1.2833333333333334in"}
 
 4\. What are the different types of constructors in a class?
 
