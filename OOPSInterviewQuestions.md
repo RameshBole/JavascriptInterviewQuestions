@@ -2,8 +2,8 @@
 
 > Click :star:if you like the project and follow [@RameshBole](https://twitter.com/ramesh_bol67728) for more updates. 
 
+1. ### What are the four pillars of OOPs Concepts
 
-1\. What are the four pillars of OOPs Concepts?
 
 encapsulation, inheritance, abstraction, polymorphism.
 
