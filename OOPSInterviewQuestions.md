@@ -165,8 +165,7 @@ The following are some key points about inheritance:
 2.  Private members are not accessed in a derived class when one class
     > is derived from another.
 
-![](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image7.png){width="6.5in"
-height="3.1444444444444444in"}
+
 
 7. ### How to prevent class from being inherited?\
 Make that class as **Sealed** class. Sealed classes cannot be
@@ -203,18 +202,13 @@ unit. Property is the best example for encapsulation concept. Direct
 accessing of field member of class was the example of violation of
 encapsulation.
 
-![A screenshot of a computer Description automatically
-generated](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image9.png){width="6.5in"
-height="2.832638888888889in"}
 
-11\. What is Polymorphism?
+
+11. ### What is Polymorphism?
 
 Polymorphism means multiple forms. Functions with same name, different
-arguments but having multiple forms/behavior.\
-\
-![A screenshot of a computer code Description automatically
-generated](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image10.png){width="5.197916666666667in"
-height="1.9895833333333333in"}
+arguments but having multiple forms/behavior.
+
 
 There are two types of polymorphism.
 
@@ -222,11 +216,9 @@ There are two types of polymorphism.
 
 -   Dynamic or Runtime Polymorphism
 
-![A diagram of polymorphosis Description automatically
-generated](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image11.png){width="6.5in"
-height="3.047222222222222in"}
 
-**Compile time polymorphism:**\
+
+**Compile time polymorphism:**
 Method overloading is a type of static or compile time polymorphism.
 Overloading is the concept of having same name with different arguments/
 signatures. It is also known as early binding.
@@ -378,7 +370,7 @@ Console.WriteLine(\"Area :\" + rectangle.Area());
 
 }
 
-12\. What is Method hiding in C#?
+12. ### What is Method hiding in C#?
 
 Method hiding allows us to hide the implementation methods of base class
 from derived class by using new keyword.
