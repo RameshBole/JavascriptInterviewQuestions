@@ -113,23 +113,18 @@ Some key points of a private constructor are:
     > any, the compiler will not add the parameter-less public
     > constructor to the class.
 
-![A screenshot of a computer Description automatically
-generated](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image4.png){width="6.5in"
-height="2.3666666666666667in"}
+![image](https://github.com/RameshBole/JavascriptInterviewQuestions/assets/141900236/ba4160a8-4a98-4808-96bc-f3985a20ce33)
 
-5\. What is Inheritance? Why inheritance is important?
+
+5. ### What is Inheritance? Why inheritance is important?
 
 Inheritance is creating/establishing parent-child relationship between
 two classes where child classes automatically gets properties and method
 of a parent class.
 
-![A close-up of words Description automatically
-generated](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image5.png){width="4.645833333333333in"
-height="1.25in"}
+![image](https://github.com/RameshBole/JavascriptInterviewQuestions/assets/141900236/d0a2d76b-5850-4675-ab4f-c75557a77c9f)
+![image](https://github.com/RameshBole/JavascriptInterviewQuestions/assets/141900236/67eb37a1-e00d-4573-87d7-a877336b188f)
 
-![A screenshot of a computer Description automatically
-generated](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image6.png){width="6.21875in"
-height="0.8958333333333334in"}
 
 Why important?
 
