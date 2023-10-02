@@ -384,7 +384,7 @@ important differences.
 2.  The keyword override is used for overridden methods where
     > keyword new is used for hiding the method.
 
-13\. What is Method overloading in C#?
+13. ### What is Method overloading in C#?
 
 Method loading is a type of compile time polymorphism. It is concept of
 override the method with different signatures.
@@ -433,8 +433,7 @@ int add1 = dataClass.Add(23, 34);
 
 }
 
-14\. What are the difference between method overloading vs method
-overriding?
+14. ### What are the difference between method overloading vs method overriding?
 
   -----------------------------------------------------------------------
   **Method Overloading**              **Method overriding**
@@ -456,7 +455,7 @@ overriding?
   compile time error.                 of arguments.
   -----------------------------------------------------------------------
 
-15\. What are the difference between method overriding vs hiding?
+15. ### What are the difference between method overriding vs hiding?
 
   -----------------------------------------------------------------------
   **Method Overriding**               **Method hiding**
@@ -470,7 +469,7 @@ overriding?
   overridden methods                  method
   -----------------------------------------------------------------------
 
-15\. What are the advantages and limitations of OOPS?
+16. ### What are the advantages and limitations of OOPS?
 
 Advantages:
 
@@ -490,7 +489,7 @@ Limitations:
 
 -   It is not suitable for small applications.
 
-16\. What is an operator overloading?
+16. ### What is an operator overloading?
 
 Operator overloading is the concept of redefine or overload most of the
 built-in operators available in C#.\
@@ -611,7 +610,7 @@ num3.display(); // Displays 240
 |   | These operators cannot be overloaded.                             |
 +---+-------------------------------------------------------------------+
 
-17\. What are different type of classes in C#?
+17. ### What are different type of classes in C#?
 
 -   Abstract class
 
