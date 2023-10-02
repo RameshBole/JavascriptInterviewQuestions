@@ -138,7 +138,7 @@ Reusability and abstraction
 Keypoints :\
 We can't inherit child from static class and sealed classes.
 
-6\. What are the different types of inheritance?
+6. ### What are the different types of inheritance?
 
 Single inheritance:
 
@@ -168,13 +168,13 @@ The following are some key points about inheritance:
 ![](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image7.png){width="6.5in"
 height="3.1444444444444444in"}
 
-7\. How to prevent class from being inherited?\
+7. ### How to prevent class from being inherited?\
 Make that class as **Sealed** class. Sealed classes cannot be
 inherited.\
 If the class contains all static members, then make as static class.
 Static class cannot be Inherited.
 
-8\. What is abstraction?
+8. ### What is abstraction?
 
 It is an process to hide the internal details and show only the required
 things/functionality. It will make our programmes more secure.\
@@ -187,16 +187,16 @@ interfaces.
 generated](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image8.png){width="6.5in"
 height="1.8118055555555554in"}
 
-9\. How to prevent instance creation of class?\
+9. ### How to prevent instance creation of class?\
 We can prevent object creation of class in multiple ways.
 
-1\. Make class static
+   1. Make class static
 
-2\. private / protected constructor
+   2. private / protected constructor
 
-3\. abstract class
+   3. abstract class
 
-10\. What is Encapsulation?
+10. ### What is Encapsulation?
 
 It is an process of wrapping up data and methods/properties into single
 unit. Property is the best example for encapsulation concept. Direct
