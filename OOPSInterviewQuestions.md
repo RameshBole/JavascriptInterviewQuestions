@@ -38,23 +38,21 @@
 
 4. ### What are the different types of constructors in a class?
 
--   A class can have any number of constructors.
+     -   A class can have any number of constructors.
 
--   Constructor doesn't have any return type, not even void.
+     -   Constructor doesn't have any return type, not even void.
 
--   With in class, you can create one static constructor only.
+     -   With in class, you can create one static constructor only.
 
--   Static constructor cannot be parameterized constructor.
+     -   Static constructor cannot be parameterized constructor.
 
-**Default constructor**: Constructor without parameters used to called
-as **Default constructor**. The drawback of a default constructor is
-that every instance of the class will be initialized to the same values,
-and it is not possible to initialize each instance of the class with
-different values. The default constructor initializes: 
+      **Default constructor**: Constructor without parameters used to called as **Default constructor**. The drawback of a default constructor is
+       that every instance of the class will be initialized to the same values, and it is not possible to initialize each instance of the class 
+       with different values. The default constructor initializes: 
 
-1.  All numeric fields in the class to zero.
+        1.  All numeric fields in the class to zero.
 
-2.  All string and object fields to null.
+        2.  All string and object fields to null.
 
 **parameterized constructor**: A constructor with at least one parameter
 is called a **parameterized constructor**. The advantage of a
@@ -91,9 +89,7 @@ Static constructor used to initialize the static members of an class.
     > log file and the constructor is used to write entries to this
     > file.
 
-![A screenshot of a computer program Description automatically
-generated](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image3.png){width="6.5in"
-height="3.5618055555555554in"}
+
 
 **Private constructor**:
 
