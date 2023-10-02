@@ -4,10 +4,10 @@
 
 1. ### What are the four pillars of OOPs Concepts
 
-   1. **Encapsulation**
-   2. **Inheritance**
-   3. **Abstraction**
-   4. **Polymorphism**
+   1. *Encapsulation*
+   2. *Inheritance*
+   3. *Abstraction*
+   4. *Polymorphism*
   
 
 2\. What are the man concepts of OOPs?
