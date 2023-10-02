@@ -21,19 +21,18 @@
 
 3. ### Describe the class and object?
 
- **Class** is a logical unit or blue print that contains fields, methods and properities.
+    **Class** is a logical unit or blue print that contains fields, methods and properities.
  
- **Constructor** is an special method in the class and gets executed when user created object of a class.
+    **Constructor** is an special method in the class and gets executed when user created object of a class.
 
- **Fields** the members of the class and it is a variable of any type. These
-holds the data.
+    **Fields** the members of the class and it is a variable of any type. These
+          holds the data.
 
-**Properties** meant for getting/setting fields.
+    **Properties** meant for getting/setting fields.
 
-Method is an code block that contains series of code statements
-/business logic.
+    **Method** is an code block that contains series of code statements/business logic.
 
-**Object** is an instance of a class.
+    **Object** is an instance of a class.
 
 
 
