@@ -936,7 +936,7 @@ file when application is compiled.
 
          **Try** :             This is the place where exceptions will throw to catch block.
 
-         **Catch Block:**      This is the place where we handled the errors. We can write/define multiple catch blocks, when we run application,                                 any  exception occurs. only one catch block executes based on what type of error received from try block.
+         **Catch Block:**      This is the place where we handled the errors. We can write/define multiple catch blocks, when we run application,                                 any  exception occurs.only one catch block executes based on what type of error received from try block.
 
-         **Finally:**       Irrespective of exception, each and every time finally block code executes. This is used in real time applications                                  mostly for disposing unwanted objects .
+         **Finally:**       Irrespective of exception, each and every time finally block code executes. This is used in real time applications mostly for disposing unwanted objects .
 
