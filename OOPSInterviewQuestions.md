@@ -868,7 +868,7 @@ it from the child class?
 
 No, overriding virtual method is optional.
 
-25\. What are the difference between abstract class vs Interfaces?
+25. ### What are the difference between abstract class vs Interfaces?
 
   -----------------------------------------------------------------------
   **Abstract class**                  **Interfaces**
@@ -889,44 +889,31 @@ No, overriding virtual method is optional.
                                       required.
   -----------------------------------------------------------------------
 
-26.If two methods are same except return type, then methods are
-overloaded or what will happen?\
-\
-No, it will throw a compile error because methods should have same
-signature with parameters.
+26. ### If two methods are same except return type, then methods are overloaded or what will happen?
+            No, it will throw a compile error because methods should have same signature with parameters.
 
-27\. how to prevent instance creation of an class.
+27. ### How to prevent instance creation of an class.
 
-We can achieve three different ways. 1. Private constructor 2. static
-class 3. Abstract class
+            We can achieve three different ways. 1. Private constructor 2. static class 3. Abstract class
 
-28\. Boxing and UnBoxing in C#?\
-Converting value types into reference type called boxing. Reverse way we
-used call as unboxing.
+28. ### Boxing and UnBoxing in C#?
+            Converting value types into reference type called boxing.
+            Converting reference types into value types is called as  Reverse way we used call as unboxing.
+            Int x = 600;
+            Object t = x //boxing.
+            Int x = (int) t; //unboxing.
 
-Int x = 600;
+29. ### Is Boxing and Unboxing good for performance?
+            Converting one type into another type always gives bad performance. Try to avoid conversions but if necessary, use conversions.
 
-Object t = x //boxing.
+30. ### Difference between string vs stringbuilder?
 
-Int x = (int) t; //unboxing.
+             String is immutable means we cannot modify it, but it will replace with new string when you assign new value.
+             StringBuilder is an mutable means we can modify it, But It won't create new instance every time.
 
-29\. Is Boxing and Unboxing good for performance?\
-Converting one type into another type always gives bad performance. Try
-to avoid conversions but if necessary, use conversions.
+31. ### When to use stringbuilder?
 
-30\. difference between string vs stringbuilder?
-
-String is immutable means we cannot modify it, but it will replace with
-new string when you assign new value.
-
-StringBuilder is an mutable means we can modify it, But It won't create
-new instance every time.
-
-31\. When to use stringbuilder?
-
-In real time applications, if you want to change string multiple times,
-then choose stringbuilder. Because it won't consume extra memory in
-everytime.
+            In real time applications, if you want to change string multiple times, then choose stringbuilder. Because it won't consume extra                 memory in everytime.
 
 32. #### What is string interpolation?
 
