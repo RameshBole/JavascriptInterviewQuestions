@@ -863,10 +863,9 @@ file when application is compiled.
                                       required.
   -----------------------------------------------------------------------
 
-24\. If a method is marked as virtual, do we must have to \"override\"
-it from the child class?
+24. ### If a method is marked as virtual, do we must have to \"override\" it from the child class?
 
-No, overriding virtual method is optional.
+         No, overriding virtual method is optional.
 
 25. ### What are the difference between abstract class vs Interfaces?
 
