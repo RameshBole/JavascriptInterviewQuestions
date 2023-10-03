@@ -917,16 +917,16 @@ file when application is compiled.
 
 32. #### What is string interpolation?
 
-            String interpolation provides more readable, convenient syntax to format strings.
-            e.g const age = 38;
-            Console.WriteLine("I am Ramesh Bole and {0} years old", age);
-            Console.WriteLine(\$"I am Ramesh Bole and {age} years old");
+  String interpolation provides more readable, convenient syntax to format strings.
+  e.g const age = 38;
+  Console.WriteLine("I am Ramesh Bole and {0} years old", age);
+  Console.WriteLine(\$"I am Ramesh Bole and {age} years old");
 
 33. ### What is the difference between **continue** and **break** statement?
 
-            **Continue statement** End the loop iteration and transfer the control to the beginning of the loop.
+  **Continue statement** End the loop iteration and transfer the control to the beginning of the loop.
 
-            **Break statement** end the loop iteration and exit the loop.
+  **Break statement** end the loop iteration and exit the loop.
  ![image](https://github.com/RameshBole/JavascriptInterviewQuestions/assets/141900236/7dbd44d0-8fc5-4b6c-abc4-f82edbcfb7e4)
 
 
