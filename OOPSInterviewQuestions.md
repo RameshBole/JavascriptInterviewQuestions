@@ -868,7 +868,8 @@ file when application is compiled.
          No, overriding virtual method is optional.
 
 25. ### What are the difference between abstract class vs Interfaces?
-
+     | Abstract classs                              | Interfaces                                 |
+     | --------                                     | -------                                    |
      -----------------------------------------------------------------------
      **Abstract class**                  **Interfaces**
      ----------------------------------- -----------------------------------
