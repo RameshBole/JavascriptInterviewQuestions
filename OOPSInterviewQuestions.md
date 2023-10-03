@@ -940,7 +940,7 @@ everytime.
             **Continue statement** End the loop iteration and transfer the control to the beginning of the loop.
 
             **Break statement** end the loop iteration and exit the loop.
-            ![image](https://github.com/RameshBole/JavascriptInterviewQuestions/assets/141900236/7dbd44d0-8fc5-4b6c-abc4-f82edbcfb7e4)
+ ![image](https://github.com/RameshBole/JavascriptInterviewQuestions/assets/141900236/7dbd44d0-8fc5-4b6c-abc4-f82edbcfb7e4)
 
 
 34. ### How to implement Exception Handling in C#?
