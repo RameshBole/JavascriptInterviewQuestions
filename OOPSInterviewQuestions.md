@@ -928,40 +928,28 @@ In real time applications, if you want to change string multiple times,
 then choose stringbuilder. Because it won't consume extra memory in
 everytime.
 
-32.What is string interpolation?
+32. #### What is string interpolation?
 
-string interpolation provides more readable, convenient syntax to format
-strings.
+            String interpolation provides more readable, convenient syntax to format strings.
+            e.g const age = 38;
+            Console.WriteLine("I am Ramesh Bole and {0} years old", age);
+            Console.WriteLine(\$"I am Ramesh Bole and {age} years old");
 
-e.g const age = 38;
+33. ### What is the difference between **continue** and **break** statement?
 
-console.WriteLine("I am Ramesh Bole and {0} years old", age);
+            **Continue statement** End the loop iteration and transfer the control to the beginning of the loop.
 
-console.WriteLine(\$"I am Ramesh Bole and {age} years old");
+            **Break statement** end the loop iteration and exit the loop.
+            ![image](https://github.com/RameshBole/JavascriptInterviewQuestions/assets/141900236/7dbd44d0-8fc5-4b6c-abc4-f82edbcfb7e4)
 
-33.What is the difference between "continue" and "break" statement?
 
-**Continue statement** end the loop iteration and transfer the control
-to the beginning of the loop.
+34. ### How to implement Exception Handling in C#?
 
-**Break statement** end the loop iteration and exit the loop.\
-![A screenshot of a computer program Description automatically
-generated](vertopal_bf8f2d9e08cf4da298b8926692784191/media/image12.png){width="6.5in"
-height="3.3333333333333335in"}
+          Exception handling in object-oriented programming is used to handle/mange the errors.
 
-34.How to implement Exception Handling in C#?
+         **Try** :             This is the place where exceptions will throw to catch block.
 
-Exception handling in object-oriented programming is used to
-handle/mange the errors.
+         **Catch Block:**      This is the place where we handled the errors. We can write/define multiple catch blocks, when we run application,                                 any  exception occurs. only one catch block executes based on what type of error received from try block.
 
-**Try** : this is the place where exceptions will throw to catch block.
-
-**Catch Block:** this is the place where we handled the errors. We can
-write/define multiple catch blocks, when we run application, any
-exception occurs. only one catch block executes based on what type of
-error received from try block.
-
-**Finally:** irrespective of exception, each and every time finally
-block code executes. This is used in real time applications mostly for
-disposing unwanted objects .
+         **Finally:**       Irrespective of exception, each and every time finally block code executes. This is used in real time applications                                  mostly for disposing unwanted objects .
 
