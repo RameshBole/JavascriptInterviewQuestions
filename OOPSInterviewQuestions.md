@@ -218,6 +218,7 @@ Method overloading is a type of static or compile time polymorphism.
 Overloading is the concept of having same name with different arguments/
 signatures. It is also known as early binding.
 
+```
 public class TestData
 
 {
@@ -257,7 +258,7 @@ int add1 = dataClass.Add(23, 34);
 }
 
 }
-
+```
 **Run-time Polymorphism:**
 
 Dynamic/runtime polymorphism is also known as late binding. Here, the
