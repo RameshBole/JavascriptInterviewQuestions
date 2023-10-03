@@ -870,24 +870,24 @@ No, overriding virtual method is optional.
 
 25. ### What are the difference between abstract class vs Interfaces?
 
-  -----------------------------------------------------------------------
-  **Abstract class**                  **Interfaces**
-  ----------------------------------- -----------------------------------
-  Abstract class contain both         Interfaces contains only abstract
-  abstract and non-abstract methods.  methods.
+     -----------------------------------------------------------------------
+     **Abstract class**                  **Interfaces**
+     ----------------------------------- -----------------------------------
+     Abstract class contain both         Interfaces contains only abstract
+     abstract and non-abstract methods.  methods.
 
-  Abstract keyword used for defining  Interface keyword used for define
-  class.                              interface.
+     Abstract keyword used for defining  Interface keyword used for define
+     class.                              interface.
 
-  Doesn't support multiple            Supports multiple multiple
-  inheritance                         inheritance
+     Doesn't support multiple            Supports multiple multiple
+     inheritance                         inheritance
 
-  Abstract class can have             Interface do not have constructors.
-  constructors                        
+     Abstract class can have             Interface do not have constructors.
+     constructors                        
 
-  No special keyword required         Virtual& override keywords
+     No special keyword required         Virtual& override keywords
                                       required.
-  -----------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 26. ### If two methods are same except return type, then methods are overloaded or what will happen?
             No, it will throw a compile error because methods should have same signature with parameters.
